@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-password-generator/static/css/main.cabec457.chunk.css",
+    "main.js": "/react-password-generator/static/js/main.c9068d28.chunk.js",
+    "main.js.map": "/react-password-generator/static/js/main.c9068d28.chunk.js.map",
+    "runtime-main.js": "/react-password-generator/static/js/runtime-main.649fb10d.js",
+    "runtime-main.js.map": "/react-password-generator/static/js/runtime-main.649fb10d.js.map",
+    "static/js/2.0475deb6.chunk.js": "/react-password-generator/static/js/2.0475deb6.chunk.js",
+    "static/js/2.0475deb6.chunk.js.map": "/react-password-generator/static/js/2.0475deb6.chunk.js.map",
+    "index.html": "/react-password-generator/index.html",
+    "precache-manifest.e55ba2a7f76512f1b3d0dd2d4c5934b2.js": "/react-password-generator/precache-manifest.e55ba2a7f76512f1b3d0dd2d4c5934b2.js",
+    "service-worker.js": "/react-password-generator/service-worker.js",
+    "static/css/main.cabec457.chunk.css.map": "/react-password-generator/static/css/main.cabec457.chunk.css.map",
+    "static/js/2.0475deb6.chunk.js.LICENSE.txt": "/react-password-generator/static/js/2.0475deb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.649fb10d.js",
+    "static/js/2.0475deb6.chunk.js",
+    "static/css/main.cabec457.chunk.css",
+    "static/js/main.c9068d28.chunk.js"
+  ]
+}
